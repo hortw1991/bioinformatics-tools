@@ -17,7 +17,6 @@ Tsai Labs (UGA)
 
 import sys
 import os
-import glob
 
 base_dir = os.getcwd() # Testing Site: "/scratch/twh58439/winterbend_2018/fastq/R1"
 letters = ["O", "S", "T"]
